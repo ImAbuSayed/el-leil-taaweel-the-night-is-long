@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-leil-taaweel-the-night-is-long/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Request Licensing for El Leil Taaweel – The night is long](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
