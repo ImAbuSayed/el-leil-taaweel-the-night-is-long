@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Leil Taaweel – The night is long
+
+This log tracks the cryptographic history and versioning for the song **El Leil Taaweel – The night is long** (el-leil-taaweel-the-night-is-long).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:29:40.464834 | `v1` | `45bc040e9fdfa9bd4cf3c7d79d9cbc3ce7c51a996059ead8052d741941a5125f` | `3cbac2e6facb8812023fd9abf62a97c1243e651430af76fad15972ce4ffe35d0` | `2026-05-09_el-leil-taaweel-the-night-is-long-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
